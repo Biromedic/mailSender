@@ -1,0 +1,4 @@
+com\biromedic\mailsender\service\EmailService.class
+com\biromedic\mailsender\DTO\EmailDto.class
+com\biromedic\mailsender\MailSenderApplication.class
+com\biromedic\mailsender\controller\FormController.class
